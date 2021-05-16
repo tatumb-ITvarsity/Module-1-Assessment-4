@@ -1,0 +1,18 @@
+th {
+     font-weight: 800;
+     font-family: sans-serif;
+     background-color: darkseagreen;
+}
+
+table{
+       font-family: cursive;
+       border-collapse: collapse;
+       border-style: solid;
+}
+
+h1{
+     font-family: inherit;
+    text-align: center;
+    font-size: 80px;
+    color: seagreen;
+}
